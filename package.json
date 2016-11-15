@@ -1,0 +1,29 @@
+{
+  "name": "test-proj",
+  "version": "1.0.0",
+  "description": "Test project on React JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boangri/test-proj.git"
+  },
+  "keywords": [
+    "javascript",
+    "frontend"
+  ],
+  "author": "Boris Gribovskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boangri/test-proj/issues"
+  },
+  "homepage": "https://github.com/boangri/test-proj#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.3"
+  }
+}
